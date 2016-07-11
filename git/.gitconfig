@@ -1,0 +1,80 @@
+
+[core]
+		
+	autocrlf = false
+	
+[user]
+	
+	email = xxx
+
+	name = songgl
+
+[color]
+        
+	status = auto
+
+	branch = auto
+
+	diff = auto
+
+	ui = true
+        
+	pager = true
+
+[color "branch"]
+        
+	current = red reverse
+        
+	local = yellow
+        
+	remote = green
+
+[color "diff"]
+        
+	meta = yellow bold
+        
+	frag = magenta bold
+        
+	old = red bold
+        
+	new = green bold
+
+[color "status"]
+        
+	added = yellow
+        
+	changed = green
+        
+	untracked = cyan
+
+[alias] 
+        
+	co = commit 
+        
+	st = status -b
+        
+	ch = checkout 
+
+    cp = cherry-pick
+        
+	br = branch -vv
+        
+	la = log --pretty=\"format:%ad %h (%an): %s\" --date=short 
+        
+	ll = log --pretty=oneline --graph --decorate --abbrev-commit --all 
+        
+	ls = log --oneline --stat --date=short 
+	
+	ss = status -s -b
+
+    staa = stash -u
+
+    stal = stash list
+
+    stap = stash pop
+
+[gui]
+	
+	encoding = utf-8
+[push]
+	default = simple
