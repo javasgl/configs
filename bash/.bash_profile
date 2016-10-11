@@ -36,3 +36,8 @@ parse_git_branch() {
 PS1="\[\e[32;1m\]\u@\h\[\e[0m\]:\[\033[01;36m\]\w\[\033[00m\]\[\e[31m\]\$(parse_git_branch)\[\e[34m\]$\[\e[0m\] "
 
 source ~/.git-completion.bash
+
+#grep命令高亮
+export GREP_OPTIONS='--color=auto'
+export GREP_COLOR='1;35'
+
