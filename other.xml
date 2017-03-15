@@ -1,0 +1,65 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CSS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="Default" />
+  </component>
+  <component name="MavenPluginAppComponent">
+    <option name="fMavenPath" value="maven.bat" />
+    <option name="fNameFormat" value="$artifactId-$version" />
+    <option name="fJ2eePackagingMethodId" value="copy files" />
+    <option name="fPomSplitterPos" value="50" />
+    <option name="fGoalsSplitterPos" value="50" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/6.2.0/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/0.12.5/bin/node" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="/usr/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="H:\codes\cyzsCode\DressHelper" />
+        <option value="H:\codes" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="H:\codes\cyzsCode\DressHelper" />
+      </list>
+    </option>
+    <option name="lastPath" value="H:\codes\cyzsCode\DressHelper" />
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="XML" />
+          </list>
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+</application>
