@@ -65,6 +65,30 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="BREADCRUMBS_CURRENT">
+      <value>
+        <option name="BACKGROUND" value="272822" />
+        <option name="EFFECT_COLOR" value="aaaaaa" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_DEFAULT">
+      <value>
+        <option name="BACKGROUND" value="272822" />
+        <option name="EFFECT_COLOR" value="aaaaaa" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_HOVERED">
+      <value>
+        <option name="BACKGROUND" value="272822" />
+        <option name="EFFECT_COLOR" value="76c486" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_INACTIVE">
+      <value>
+        <option name="BACKGROUND" value="272822" />
+        <option name="EFFECT_COLOR" value="c8c8c8" />
+      </value>
+    </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="ffc8c8" />
