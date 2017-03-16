@@ -67,24 +67,28 @@
     </option>
     <option name="BREADCRUMBS_CURRENT">
       <value>
+        <option name="FOREGROUND" value="bc6c5" />
         <option name="BACKGROUND" value="272822" />
         <option name="EFFECT_COLOR" value="aaaaaa" />
       </value>
     </option>
     <option name="BREADCRUMBS_DEFAULT">
       <value>
+        <option name="FOREGROUND" value="ac6b9" />
         <option name="BACKGROUND" value="272822" />
         <option name="EFFECT_COLOR" value="aaaaaa" />
       </value>
     </option>
     <option name="BREADCRUMBS_HOVERED">
       <value>
+        <option name="FOREGROUND" value="bc6c5" />
         <option name="BACKGROUND" value="272822" />
         <option name="EFFECT_COLOR" value="76c486" />
       </value>
     </option>
     <option name="BREADCRUMBS_INACTIVE">
       <value>
+        <option name="FOREGROUND" value="ac6b9" />
         <option name="BACKGROUND" value="272822" />
         <option name="EFFECT_COLOR" value="c8c8c8" />
       </value>
