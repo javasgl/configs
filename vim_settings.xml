@@ -67,6 +67,7 @@
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/YDAggregation/Forum/Reply/Search.php" timestamp="1489401330300">
         <mark key="'" line="277" column="20" />
       </file>
+      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/DataAcquisition/Data.php" timestamp="1489740024774" />
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Web/media/javascript/webpackModule/business/addGoods/entry-min.js" timestamp="1489637240049">
         <mark key="'" line="6205" column="0" />
       </file>
@@ -198,7 +199,7 @@
         <mark key="^" line="106" column="7" />
         <mark key="." line="106" column="7" />
       </file>
-      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/Mobile/Goods/GetInfo.php" timestamp="1489738838232">
+      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/Mobile/Goods/GetInfo.php" timestamp="1489739934806">
         <mark key="'" line="472" column="50" />
         <mark key="[" line="160" column="0" />
         <mark key="]" line="160" column="0" />
@@ -324,7 +325,7 @@
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Search/Keywords/Mapping/Search.php" timestamp="1489486838056">
         <mark key="'" line="136" column="33" />
       </file>
-      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Mobile/GoodsController.php" timestamp="1489738846156">
+      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Mobile/GoodsController.php" timestamp="1489740007662">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="45" column="22" />
       </file>
