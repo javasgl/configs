@@ -15,7 +15,7 @@
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/IcyAPI/10/Icy/GetCollocationList.php" timestamp="1489374896142">
         <mark key="'" line="54" column="21" />
       </file>
-      <file name="/a.dummy" timestamp="1490006297490">
+      <file name="/a.dummy" timestamp="1490010003145">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/User/Counter.php" timestamp="1489394863067">
@@ -66,6 +66,12 @@
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/API/106/Content/GetPictureGroupsByTag.php" timestamp="1489373878060">
         <mark key="'" line="45" column="21" />
       </file>
+      <file name="$USER_HOME$/work/codes/ydCron/src/Core/Actions/GetHostListAction.php" timestamp="1490010406471">
+        <mark key="'" line="43" column="21" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Cron/TestController.php" timestamp="1490002807435">
         <mark key="'" line="0" column="0" />
       </file>
@@ -84,11 +90,11 @@
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/API/104/Goods/Search.php" timestamp="1489123104025">
         <mark key="'" line="667" column="21" />
       </file>
-      <file name="$USER_HOME$/work/codes/server-cron-system/config/index.js" timestamp="1489995249829">
-        <mark key="[" line="26" column="33" />
-        <mark key="]" line="26" column="33" />
-        <mark key="." line="26" column="33" />
-        <mark key="^" line="26" column="32" />
+      <file name="$USER_HOME$/work/codes/server-cron-system/config/index.js" timestamp="1490008593802">
+        <mark key="[" line="27" column="35" />
+        <mark key="]" line="27" column="36" />
+        <mark key="." line="27" column="36" />
+        <mark key="^" line="27" column="33" />
       </file>
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Goods/SKU/Item/Data.php" timestamp="1489747305120">
         <mark key="'" line="143" column="20" />
@@ -130,8 +136,14 @@
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Order/Item/Data.php" timestamp="1489458393074">
         <mark key="'" line="826" column="20" />
       </file>
-      <file name="$USER_HOME$/work/codes/ydCron/src/Core/Crontab.class.php" timestamp="1490006858901">
-        <mark key="'" line="323" column="31" />
+      <file name="$USER_HOME$/work/codes/ydCron/src/Core/Crontab.class.php" timestamp="1490007848127">
+        <mark key="'" line="53" column="41" />
+      </file>
+      <file name="$USER_HOME$/work/codes/ydCron/src/Core/Request.php" timestamp="1490010115612">
+        <mark key="'" line="23" column="13" />
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="." line="144" column="0" />
       </file>
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Tpl/Admin/Advertisement/viewAbstract.php" timestamp="1489146293599">
         <mark key="'" line="0" column="0" />
@@ -156,6 +168,9 @@
       </file>
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Cron/IcyController.php" timestamp="1490004618118">
         <mark key="'" line="136" column="87" />
+      </file>
+      <file name="$USER_HOME$/work/codes/ydCron/src/Core/Swoole.php" timestamp="1490010357023">
+        <mark key="'" line="122" column="15" />
       </file>
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Cron/MojiController.php" timestamp="1489392855689">
         <mark key="'" line="62" column="21" />
@@ -203,18 +218,14 @@
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/API/104/Suit/Search.php" timestamp="1489123076977">
         <mark key="'" line="283" column="21" />
       </file>
-      <file name="$USER_HOME$/work/codes/ydCron/src/Core/Actions/SetStatusAction.php" timestamp="1489994491744">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="33" column="4" />
-      </file>
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/YDSearch/Stylist/Work/Search.php" timestamp="1489385647940">
         <mark key="'" line="9" column="4" />
       </file>
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Core/WebRoot/Application.php" timestamp="1489630324213">
         <mark key="'" line="165" column="19" />
       </file>
-      <file name="$USER_HOME$/work/codes/ydCron/src/Config/Config.php" timestamp="1490006296862">
-        <mark key="'" line="49" column="24" />
+      <file name="$USER_HOME$/work/codes/ydCron/src/Config/Config.php" timestamp="1490010361878">
+        <mark key="'" line="41" column="44" />
       </file>
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Goods/Etc/Data.php" timestamp="1489461946820">
         <mark key="'" line="68" column="5" />
@@ -244,12 +255,11 @@
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Admin/TagsController.php" timestamp="1489115657217">
         <mark key="'" line="147" column="26" />
       </file>
-      <file name="$USER_HOME$/work/codes/server-cron-system/src/components/cronList/index.vue" timestamp="1489999376220">
-        <mark key="'" line="379" column="15" />
-        <mark key="[" line="50" column="37" />
-        <mark key="]" line="50" column="38" />
-        <mark key="." line="50" column="38" />
-        <mark key="^" line="50" column="38" />
+      <file name="$USER_HOME$/work/codes/server-cron-system/src/components/cronList/index.vue" timestamp="1490010624844">
+        <mark key="'" line="83" column="70" />
+        <mark key="[" line="166" column="0" />
+        <mark key="]" line="166" column="0" />
+        <mark key="." line="166" column="0" />
       </file>
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/SmartService/Context/HelperYouPick.php" timestamp="1489123575565">
         <mark key="'" line="286" column="64" />
@@ -289,32 +299,8 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="280" column="27" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/IcyAPI/14/Goods/GetInfo.php" />
-      <jump line="67" column="8" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/IcyAPI/14/Media/GetInfo.php" />
-      <jump line="102" column="21" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/IcyAPI/14/Media/GetInfo.php" />
-      <jump line="23" column="15" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/IcyAPI/14/Media/GetInfo.php" />
-      <jump line="20" column="29" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/IcyAPI/14/Icy/CollectGoods.php" />
-      <jump line="105" column="21" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/IcyAPI/14/Media/GetInfo.php" />
-      <jump line="334" column="55" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/IcyAPI/14/Goods/GetInfo.php" />
-      <jump line="74" column="20" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Goods/MultiImage/Data.php" />
-      <jump line="143" column="20" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Goods/SKU/Item/Data.php" />
-      <jump line="13" column="52" filename="$USER_HOME$/work/codes/ydCron/src/Core/Actions/GetHostListAction.php" />
-      <jump line="46" column="21" filename="$USER_HOME$/work/codes/ydCron/src/Core/Actions/GetHostListAction.php" />
-      <jump line="144" column="28" filename="$USER_HOME$/work/codes/ydCron/src/Core/Crontab.class.php" />
-      <jump line="25" column="19" filename="$USER_HOME$/work/codes/ydCron/src/Core/Crontab.class.php" />
-      <jump line="106" column="14" filename="$USER_HOME$/work/codes/ydCron/src/Core/Crontab.class.php" />
-      <jump line="141" column="28" filename="$USER_HOME$/work/codes/ydCron/src/Core/Crontab.class.php" />
-      <jump line="143" column="19" filename="$USER_HOME$/work/codes/ydCron/src/Core/Crontab.class.php" />
       <jump line="102" column="15" filename="$USER_HOME$/work/codes/ydCron/src/Core/Request.php" />
       <jump line="132" column="25" filename="$USER_HOME$/work/codes/ydCron/src/Core/Request.php" />
-      <jump line="122" column="15" filename="$USER_HOME$/work/codes/ydCron/src/Core/Request.php" />
-      <jump line="166" column="78" filename="$USER_HOME$/work/codes/ydCron/src/Core/Request.php" />
-      <jump line="193" column="33" filename="$USER_HOME$/work/codes/ydCron/src/Core/Request.php" />
-      <jump line="194" column="42" filename="$USER_HOME$/work/codes/ydCron/src/Core/Request.php" />
-      <jump line="195" column="38" filename="$USER_HOME$/work/codes/ydCron/src/Core/Request.php" />
-      <jump line="196" column="45" filename="$USER_HOME$/work/codes/ydCron/src/Core/Request.php" />
-      <jump line="200" column="34" filename="$USER_HOME$/work/codes/ydCron/src/Core/Request.php" />
-      <jump line="23" column="13" filename="$USER_HOME$/work/codes/ydCron/src/Core/Request.php" />
       <jump line="49" column="24" filename="$USER_HOME$/work/codes/ydCron/src/Config/Config.php" />
       <jump line="0" column="0" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Config/SystemConfig.php" />
       <jump line="287" column="62" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Config/SystemConfig.php" />
@@ -389,13 +375,37 @@
       <jump line="33" column="19" filename="$USER_HOME$/work/codes/ydCron/src/Core/Crontab.class.php" />
       <jump line="323" column="31" filename="$USER_HOME$/work/codes/ydCron/src/Core/Crontab.class.php" />
       <jump line="325" column="54" filename="$USER_HOME$/work/codes/ydCron/src/Core/Common.php" />
+      <jump line="11" column="19" filename="$USER_HOME$/work/codes/ydCron/src/Core/Crontab.class.php" />
+      <jump line="53" column="41" filename="$USER_HOME$/work/codes/ydCron/src/Core/Crontab.class.php" />
+      <jump line="51" column="50" filename="$USER_HOME$/work/codes/server-cron-system/src/components/cronList/index.vue" />
+      <jump line="155" column="60" filename="$USER_HOME$/work/codes/server-cron-system/src/components/cronList/index.vue" />
+      <jump line="81" column="62" filename="$USER_HOME$/work/codes/server-cron-system/src/components/cronList/index.vue" />
+      <jump line="106" column="8" filename="$USER_HOME$/work/codes/server-cron-system/src/components/cronList/index.vue" />
+      <jump line="82" column="88" filename="$USER_HOME$/work/codes/server-cron-system/src/components/cronList/index.vue" />
+      <jump line="107" column="8" filename="$USER_HOME$/work/codes/server-cron-system/src/components/cronList/index.vue" />
+      <jump line="149" column="13" filename="$USER_HOME$/work/codes/server-cron-system/src/components/cronList/index.vue" />
+      <jump line="157" column="23" filename="$USER_HOME$/work/codes/server-cron-system/src/components/cronList/index.vue" />
+      <jump line="163" column="23" filename="$USER_HOME$/work/codes/server-cron-system/src/components/cronList/index.vue" />
+      <jump line="78" column="22" filename="$USER_HOME$/work/codes/server-cron-system/src/components/cronList/index.vue" />
+      <jump line="122" column="15" filename="$USER_HOME$/work/codes/ydCron/src/Core/Request.php" />
+      <jump line="166" column="78" filename="$USER_HOME$/work/codes/ydCron/src/Core/Request.php" />
+      <jump line="193" column="33" filename="$USER_HOME$/work/codes/ydCron/src/Core/Request.php" />
+      <jump line="194" column="42" filename="$USER_HOME$/work/codes/ydCron/src/Core/Request.php" />
+      <jump line="195" column="38" filename="$USER_HOME$/work/codes/ydCron/src/Core/Request.php" />
+      <jump line="196" column="45" filename="$USER_HOME$/work/codes/ydCron/src/Core/Request.php" />
+      <jump line="200" column="34" filename="$USER_HOME$/work/codes/ydCron/src/Core/Request.php" />
+      <jump line="23" column="13" filename="$USER_HOME$/work/codes/ydCron/src/Core/Request.php" />
+      <jump line="132" column="28" filename="$USER_HOME$/work/codes/ydCron/src/Core/Swoole.php" />
+      <jump line="122" column="15" filename="$USER_HOME$/work/codes/ydCron/src/Core/Swoole.php" />
+      <jump line="41" column="44" filename="$USER_HOME$/work/codes/ydCron/src/Config/Config.php" />
+      <jump line="83" column="70" filename="$USER_HOME$/work/codes/server-cron-system/src/components/cronList/index.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAlwcmludF9yKENvbW1vbjo6Z2V0TG9jYWxJcHMoKSk7ZXhpdDsK</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -403,37 +413,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getLocalIpHost</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXJ2XD4=</text>
+        <text>debugg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3ViRnVuY3Rpb25TcGFuLmh0bWwoIHRoaXMuX2J1aWxkTWVkaWFMaXN0KCB0aGlzLmFkdmVydGlzZW1lbnRGdW5jdGlvbi5tZWRpYUlkID8gdGhpcy5hZHZlcnRpc2VtZW50RnVuY3Rpb24ubWVkaWFJZCA6IDAgKSApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iaG9zdC1jaGVjayIgdi1mb3I9IihpdGVtLGluZGV4KSBpbiBob3N0TGlzdC5ob3N0cyI+CiAgICAgICAgICAgICAgICB7e2luZGV4fX0tLXt7aXRlbX19CiAgICAgICAgICAgICAgICA8aW5wdXQgOmlkPSJpbmRleCIgdHlwZT0iY2hlY2tib3giIGNsYXNzPSJibG9jayIgOnZhbHVlPSJpdGVtIiB2LW1vZGVsPSJjaGVja0xpc3QiID4KICAgICAgICAgICAgICAgIDxsYWJlbCA6Zm9yPSJpbmRleCI+e3tpdGVtfX08L2xhYmVsPgogICAgICAgICAgICAgIDwvc3Bhbj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAlwcmludF9yKENvbW1vbjo6Z2V0TG9jYWxJcHMoKSk7ZXhpdDsK</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAlDb21vbgo=</text>
+        <text encoding="base64">Ly8gICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGlmKCAkdGhpcy0+Z2V0VmFsdWVBc1Bvc2l0aXZlSW50ZWdlciggJ2lzRGV0YWlsJywgMCApICkKLy8gICAgICAgIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRfcigkbGlzdCk7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgPCEtLTxzcGFuIGNsYXNzPSJob3N0LWNoZWNrIiB2LWZvcj0iKGl0ZW0saW5kZXgpIGluIGhvc3RMaXN0Lmhvc3RzIj4tLT4KICAgICAgICAgICAgICAgIDwhLS08aW5wdXQgOmlkPSJpbmRleCIgdHlwZT0iY2hlY2tib3giIGNsYXNzPSJibG9jayIgOnZhbHVlPSJpdGVtIiB2LW1vZGVsPSJjaGVja0xpc3QiID4tLT4KICAgICAgICAgICAgICAgIDwhLS08bGFiZWwgOmZvcj0iaW5kZXgiPnt7aXRlbX19PC9sYWJlbD4tLT4KICAgICAgICAgICAgICA8IS0tPC9zcGFuPi0tPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRfcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7aW5kZXh9fS0te3tpdGVtfX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlNZWRpYWVzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7aW5kZXh9fS0te3tpdGVtfX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlNZXdkaWFfCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwPnt7aXRlbX19PC9wPgogICAgICAgICAgICAgIDxwPnt7aW5kZXh9fTwvcD4KICAgICAgICAgIC8vLwoKCiAgICAgICAgICAvLy8K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3996,19 +4006,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAlwcmludF9yKENvbW1vbjo6Z2V0TG9jYWxJcHMoKSk7ZXhpdDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgIAlDb21vbgo=</text>
       </register>
       <register name=":" type="4">
         <text>49</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXJ2XD4=</last-search>
+      <last-search>debugg</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXJ2XD4=</last-pattern>
+      <last-pattern>debugg</last-pattern>
       <last-replace>hiddenInIcy</last-replace>
       <last-substitute encoding="base64">XDxzZXJ2XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -4016,16 +4026,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mysql</entry>
-        <entry encoding="base64">XDxnZXRDcm9uQ29uZmlnTGlzdFw+</entry>
-        <entry encoding="base64">XDxvblNob3dNb2RhbFw+</entry>
-        <entry encoding="base64">XDxvblJlbW92ZUNyb25cPg==</entry>
-        <entry encoding="base64">XDxvbkNoYW5nZVN0YXR1c1w+</entry>
-        <entry encoding="base64">XDxvdXRsaW5lZFw+</entry>
-        <entry encoding="base64">XDxtaW5cPg==</entry>
-        <entry>ICY</entry>
-        <entry>148</entry>
-        <entry encoding="base64">XDxMSU5LX1RZUEVfSUNZX0dPT0RTX0RFVEFJTFw+</entry>
         <entry encoding="base64">XDwxNDdcPg==</entry>
         <entry>商品详情</entry>
         <entry>38</entry>
@@ -4036,6 +4036,16 @@
         <entry encoding="base64">XDxTVUJfREFUQV9LRVlfR09PRFNfQ09VTlRcPg==</entry>
         <entry encoding="base64">XDxnZXRDb25maWdDcm9uTGlzdEJ5SXBIb3N0XD4=</entry>
         <entry encoding="base64">XDxzZXJ2XD4=</entry>
+        <entry encoding="base64">XDxwaWRfZmlsZVw+</entry>
+        <entry encoding="base64">XDxvblNob3dNb2RhbFw+</entry>
+        <entry encoding="base64">XDxob3N0TGlzdFw+</entry>
+        <entry encoding="base64">XDxjaGVja0xpc3RcPg==</entry>
+        <entry encoding="base64">XDxvbk1vZGFsT2tcPg==</entry>
+        <entry encoding="base64">XDxfaHR0cFw+</entry>
+        <entry encoding="base64">XDxfZ2V0U3dvb2xlVGFibGVcPg==</entry>
+        <entry encoding="base64">XDx0YWJsZVw+</entry>
+        <entry>maxProcessCount</entry>
+        <entry>debugg</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Stylist_Work_Item_Data/Content_Vote_User_Data/gi</entry>
