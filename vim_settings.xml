@@ -19,13 +19,13 @@
         <mark key="." line="5144" column="57" />
         <mark key="^" line="5144" column="57" />
       </file>
-      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Order/Item/Logical.php" timestamp="1490083556645" />
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/IcyAPI/10/Icy/GetCollocationList.php" timestamp="1489374896142">
         <mark key="'" line="54" column="21" />
       </file>
       <file name="/a.dummy" timestamp="1490095017049">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Stylist/Material/Group/Logical.php" timestamp="1490096223185" />
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/User/Counter.php" timestamp="1489394863067">
         <mark key="'" line="925" column="21" />
       </file>
@@ -56,6 +56,12 @@
       </file>
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Business/User/Score/Compute/Order/DueToWho.php" timestamp="1489394489508">
         <mark key="'" line="49" column="21" />
+      </file>
+      <file name="$USER_HOME$/work/codes/spider-server/.gitignore" timestamp="1490096327333">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="2" column="4" />
+        <mark key="^" line="2" column="4" />
+        <mark key="." line="2" column="4" />
       </file>
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/Mobile/Icy/GoodsSearch.php" timestamp="1489487229720">
         <mark key="'" line="130" column="15" />
@@ -117,7 +123,6 @@
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/YDSearch/Order/Search.php" timestamp="1490078821082">
         <mark key="'" line="670" column="20" />
       </file>
-      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Cron/BiController.php" timestamp="1490095080038" />
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/YDSearch/Feedback/Search.php" timestamp="1489376093643">
         <mark key="'" line="113" column="13" />
       </file>
@@ -143,7 +148,6 @@
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Cron/CommentController.php" timestamp="1490086711511">
         <mark key="'" line="4" column="6" />
       </file>
-      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Goods/Item/Logical.php" timestamp="1490082619137" />
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Tpl/Admin/Advertisement/viewAbstract.php" timestamp="1489146293599">
         <mark key="'" line="0" column="0" />
       </file>
@@ -189,6 +193,7 @@
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Cron/MojiController.php" timestamp="1489392855689">
         <mark key="'" line="62" column="21" />
       </file>
+      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/API/80/User/Search.php" timestamp="1490096223185" />
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/YDAggregation/Forum/Reply/Search.php" timestamp="1489401330300">
         <mark key="'" line="277" column="20" />
       </file>
@@ -217,14 +222,12 @@
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Config/SystemConfig.php" timestamp="1489994093251">
         <mark key="'" line="268" column="5" />
       </file>
-      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Order/Helper/Creator.php" timestamp="1490082931354" />
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Cart/Data.php" timestamp="1489548373816">
         <mark key="'" line="200" column="20" />
       </file>
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/Mobile/Content/GetPictureGroupsByTag.php" timestamp="1489373902520">
         <mark key="'" line="44" column="21" />
       </file>
-      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/ICY/Home/GoodsCache.php" timestamp="1490083836591" />
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/IcyAPI/14/Icy/GetDesignerList.php" timestamp="1490065101850">
         <mark key="'" line="106" column="0" />
       </file>
@@ -260,6 +263,12 @@
         <mark key="[" line="729" column="0" />
         <mark key="]" line="729" column="0" />
         <mark key="." line="729" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/codes/spider-server/README.md" timestamp="1490096413925">
+        <mark key="[" line="13" column="97" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="/PHP Console" timestamp="1490081564791">
         <mark key="[" line="0" column="0" />
@@ -309,6 +318,9 @@
       </file>
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Search/Keywords/Mapping/Search.php" timestamp="1489486838056">
         <mark key="'" line="136" column="33" />
+      </file>
+      <file name="/fragment.java" timestamp="1490096484719">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
