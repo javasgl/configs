@@ -15,8 +15,9 @@
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/ShoppingAPI/13/Search/GetCombineResult.php" timestamp="1489122845819">
         <mark key="'" line="137" column="21" />
       </file>
-      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Admin/GoodsController.php" timestamp="1489483491368">
+      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Admin/GoodsController.php" timestamp="1490081562401">
         <mark key="'" line="4823" column="24" />
+        <mark key="." line="2007" column="31" />
       </file>
       <file name="$USER_HOME$/work/codes/ydCron/swoole-ide-helper/src/Functionals.php" timestamp="1490068067048">
         <mark key="'" line="668" column="6" />
@@ -33,15 +34,22 @@
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Order/Goods/Data.php" timestamp="1489458885749">
         <mark key="'" line="174" column="20" />
       </file>
-      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Stylist/Material/Group/Logical.php" timestamp="1490061762785" />
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/User/Counter.php" timestamp="1489394863067">
         <mark key="'" line="925" column="21" />
+      </file>
+      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/LinkTypeFunction/Convertor.php" timestamp="1490079557049">
+        <mark key="[" line="4732" column="0" />
+        <mark key="]" line="4732" column="0" />
+        <mark key="." line="4732" column="0" />
       </file>
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/Business/Shop/Todo.php" timestamp="1489395450027">
         <mark key="'" line="171" column="21" />
       </file>
-      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Cron/IcyController.php" timestamp="1490004618118">
+      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Cron/IcyController.php" timestamp="1490081106581">
         <mark key="'" line="136" column="87" />
+        <mark key="[" line="233" column="0" />
+        <mark key="]" line="233" column="0" />
+        <mark key="." line="233" column="0" />
       </file>
       <file name="$USER_HOME$/work/codes/ydCron/src/Core/Swoole.php" timestamp="1490068060835">
         <mark key="'" line="134" column="9" />
@@ -52,19 +60,17 @@
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Cron/MojiController.php" timestamp="1489392855689">
         <mark key="'" line="62" column="21" />
       </file>
-      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/API/80/User/Search.php" timestamp="1490061762785" />
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/YDAggregation/Forum/Reply/Search.php" timestamp="1489401330300">
         <mark key="'" line="277" column="20" />
       </file>
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Web/media/javascript/webpackModule/business/addGoods/entry-min.js" timestamp="1489637240049">
         <mark key="'" line="6205" column="0" />
       </file>
-      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Admin/OrderController.php" timestamp="1490078244779">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1013" column="65" />
-        <mark key="]" line="1014" column="27" />
-        <mark key="." line="1014" column="27" />
-        <mark key="^" line="1014" column="27" />
+      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Admin/OrderController.php" timestamp="1490080044475">
+        <mark key="'" line="998" column="8" />
+        <mark key="[" line="1014" column="0" />
+        <mark key="]" line="1014" column="0" />
+        <mark key="." line="1014" column="0" />
       </file>
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/YDSearch/Conditions/Goods.php" timestamp="1489483263580">
         <mark key="'" line="2216" column="15" />
@@ -188,7 +194,7 @@
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Activity/Common/Dial/Order/Data.php" timestamp="1489393975587">
         <mark key="'" line="73" column="20" />
       </file>
-      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/YDSearch/Comment/Search.php" timestamp="1490078020773">
+      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/YDSearch/Comment/Search.php" timestamp="1490081948087">
         <mark key="'" line="335" column="15" />
         <mark key="[" line="627" column="28" />
         <mark key="]" line="627" column="133" />
@@ -211,7 +217,7 @@
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/Admin/Content/GetPictureGroupList.php" timestamp="1489373846192">
         <mark key="'" line="50" column="21" />
       </file>
-      <file name="/PHP Console" timestamp="1490002229503">
+      <file name="/PHP Console" timestamp="1490081564791">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/Business/Goods/Detail/Tab.php" timestamp="1489395397416">
@@ -228,6 +234,9 @@
       </file>
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/API/76/Order/GetRecommendGoodsList.php" timestamp="1489395312688">
         <mark key="'" line="322" column="21" />
+      </file>
+      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/YDSearch/Order/Search.php" timestamp="1490078821082">
+        <mark key="'" line="670" column="20" />
       </file>
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Admin/TagsController.php" timestamp="1489115657217">
         <mark key="'" line="147" column="26" />
@@ -313,11 +322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="364" column="3" filename="$USER_HOME$/work/codes/server-cron-system/src/components/cronList/index.vue" />
-      <jump line="365" column="4" filename="$USER_HOME$/work/codes/server-cron-system/src/components/cronList/index.vue" />
-      <jump line="25" column="25" filename="$USER_HOME$/work/codes/server-cron-system/src/components/cronList/index.vue" />
-      <jump line="26" column="25" filename="$USER_HOME$/work/codes/server-cron-system/src/components/cronList/index.vue" />
-      <jump line="346" column="4" filename="$USER_HOME$/work/codes/server-cron-system/src/components/cronList/index.vue" />
       <jump line="30" column="31" filename="$USER_HOME$/work/codes/server-cron-system/src/components/cronList/index.vue" />
       <jump line="55" column="0" filename="$USER_HOME$/work/codes/server-cron-system/src/components/cronList/index.vue" />
       <jump line="53" column="104" filename="$USER_HOME$/work/codes/server-cron-system/src/components/cronList/index.vue" />
@@ -413,13 +417,18 @@
       <jump line="668" column="6" filename="$USER_HOME$/work/codes/ydCron/swoole-ide-helper/src/Functionals.php" />
       <jump line="0" column="0" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Admin/OrderController.php" />
       <jump line="421" column="27" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Order/Comment/Data.php" />
+      <jump line="1754" column="117" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/YDSearch/Order/Search.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/YDSearch/Order/Search.php" />
+      <jump line="670" column="20" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/YDSearch/Order/Search.php" />
+      <jump line="1015" column="107" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Admin/OrderController.php" />
+      <jump line="998" column="8" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Admin/OrderController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlPcmRlcl9JdGVtX0xvZ2ljYWw6OmdldEluc3RhbmNlKCA0ODk1OCApLT5zZXRTdWJEYXRhKCBPcmRlcl9JdGVtX0RhdGE6OlNVQkRBVEFfQVBQX0lEICwgQXBwX0RhdGE6OkFQUF9JRF9JQ1kgKTsKCQlPcmRlcl9JdGVtX0xvZ2ljYWw6OmdldEluc3RhbmNlKCA3MTU3NSApLT5zZXRTdWJEYXRhKCBPcmRlcl9JdGVtX0RhdGE6OlNVQkRBVEFfQVBQX0lEICwgQXBwX0RhdGE6OkFQUF9JRF9JQ1kgKTsK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -427,37 +436,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>Setsub</text>
       </register>
       <register name="/" type="4">
         <text>init</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkkb3JkZXJJZCA9IDE0MDA5NzYzNzA0NTg5Owo=</text>
+        <text encoding="base64">CQlPcmRlcl9JdGVtX0xvZ2ljYWw6OmdldEluc3RhbmNlKDQ4OTU4KS0+c2V0U3ViRGF0YSggT3JkZXJfSXRlbV9EYXRhOjpTVUJEQVRBX0FQUF9JRCAsIEFwcF9EYXRhOjpBUFBfSURfSUNZICk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCQknbGluaycgPT4gTGlua1R5cGVGdW5jdGlvbl9Db252ZXJ0b3I6OmFwcGVuZEFwcElkKAoJCQkJCQkJCQlMaW5rVHlwZUZ1bmN0aW9uX0NvbnZlcnRvcjo6Z2V0SW5zdGFuY2UoKS0+Z2V0TW9iaWxlTGluaygKCQkJCQkJCQkJCUxpbmtUeXBlRnVuY3Rpb25fQ29udmVydG9yOjpnZXRJbnN0YW5jZSgpLT5nZXRHb29kc0xpbmsoICRnb29kc0lkICkgLAoJCQkJCQkJCQkJZmFsc2UgLAoJCQkJCQkJCQkJJHRoaXMtPl91c2VySWQKCQkJCQkJCQkJKQoJCQkJCQkJCSkgLAo=</text>
+        <text encoding="base64">CQlPcmRlcl9JdGVtX0xvZ2ljYWw6OmdldEluc3RhbmNlKCA0ODk1OCApLT5zZXRTdWJEYXRhKCBPcmRlcl9JdGVtX0RhdGE6OlNVQkRBVEFfQVBQX0lEICwgQXBwX0RhdGE6OkFQUF9JRF9JQ1kgKTsKCQlPcmRlcl9JdGVtX0xvZ2ljYWw6OmdldEluc3RhbmNlKCA3MTU3NSApLT5zZXRTdWJEYXRhKCBPcmRlcl9JdGVtX0RhdGE6OlNVQkRBVEFfQVBQX0lEICwgQXBwX0RhdGE6OkFQUF9JRF9JQ1kgKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCSRtZWRpaWFpSWQK</text>
+        <text encoding="base64">CQlPcmRlcl9JdGVtX0xvZ2ljYWw6OmdldEluc3RhbmNlKCA0ODk1OCApLT5zZXRTdWJEYXRhKCBPcmRlcl9JdGVtX0RhdGE6OlNVQkRBVEFfQVBQX0lEICwgQXBwX0RhdGE6OkFQUF9JRF9JQ1kgKTsKCQlPcmRlcl9JdGVtX0xvZ2ljYWw6OmdldEluc3RhbmNlKCA3MTU3NSApLT5zZXRTdWJEYXRhKCBPcmRlcl9JdGVtX0RhdGE6OlNVQkRBVEFfQVBQX0lEICwgQXBwX0RhdGE6OkFQUF9JRF9JQ1kgKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkpCg==</text>
+        <text encoding="base64">CgkJT3JkZXJfSXRlbV9Mb2dpY2FsOjpnZXRJbnN0YW5jZSggMTQwMDk3NjM3MDQ1ODkgKS0+c2V0U3ViRGF0YSggT3JkZXJfSXRlbV9EYXRhOjpTVUJEQVRBX0FQUF9JRCAsIEFwcF9EYXRhOjpBUFBfSURfSUNZICk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJICwKCQkJCQkJdHJ1ZSAsCgkJCQkJCSR0aGlzLT5fdXNlcklkCg==</text>
+        <text encoding="base64">CQlKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJTGlua1R5cGVGdW5jdGlvbl9Db252ZXJ0b3I6OmdldEluc3RhbmNlKCktPmdldElDWU1lZGlhSW5mbyggYXJyYXkoICdtZWRpYUlkJyA9PiAkc3R5bGVbICdzdWJEYXRhJyBdWyBJQ1lfU3R5bGVfSXRlbV9EYXRhOjpTVUJEQVRBX1JFTEFURV9JRCBdICkgKSAsCg==</text>
+        <text encoding="base64">CQkkb3JkZXJJZCA9IDcxNTc1OwoJCSRvcmRlcklkID0gNDg5NTg7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQknZ29vZHNMaW5rJyA9PiAoc3RyaW5nKUxpbmtUeXBlRnVuY3Rpb25fQ29udmVydG9yOjpnZXRJbnN0YW5jZSgpCgkJCQkJCS0+Z2V0TW9iaWxlTGluaygKCQkJCQkJCUxpbmtUeXBlRnVuY3Rpb25fQ29udmVydG9yOjpnZXRJbnN0YW5jZSgpCgkJCQkJCQkJLT5nZXRHb29kc0xpbmsoICRjb21tZW50WyAnZ29vZHNJZCcgXSApICwKCQkJCQkJCVdlYlJvb3RfQXBwbGljYXRpb246OiRpc0luQXBwICwKCQkJCQkJCSR0aGlzLT5fdXNlcklkCgkJCQkJCSkgLAo=</text>
+        <text encoding="base64">CQkJCQkJCQknbGluaycgPT4gTGlua1R5cGVGdW5jdGlvbl9Db252ZXJ0b3I6OmFwcGVuZEFwcElkKAoJCQkJCQkJCQlMaW5rVHlwZUZ1bmN0aW9uX0NvbnZlcnRvcjo6Z2V0SW5zdGFuY2UoKS0+Z2V0TW9iaWxlTGluaygKCQkJCQkJCQkJCUxpbmtUeXBlRnVuY3Rpb25fQ29udmVydG9yOjpnZXRJbnN0YW5jZSgpLT5nZXRHb29kc0xpbmsoICRnb29kc0lkICkgLAoJCQkJCQkJCQkJZmFsc2UgLAoJCQkJCQkJCQkJJHRoaXMtPl91c2VySWQKCQkJCQkJCQkJKQoJCQkJCQkJCSkgLAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4020,10 +4029,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQlMaW5rVHlwZUZ1bmN0aW9uX0NvbnZlcnRvcjo6YXBwZW5kSWN5QXBwSWQoCgkJCQkJCUhlbHBlcl9Vcmw6OmFwcGVuZFVzZXJTZXNzaW9uKAoJCQkJCQkJQ29tbW9uOjpnZXRNVXJsKCAnbWVkaWFEZXRhaWxVUkwnICwgWyAne21lZGlhSWR9JyA9PiAkc3R5bGVbICdzdWJEYXRhJyBdWyBJQ1lfU3R5bGVfSXRlbV9EYXRhOjpTVUJEQVRBX1JFTEFURV9JRCBdIF0gKSAsCgkJCQkJCQkkdGhpcy0+X3VzZXJJZAoJCQkJCQkpCgkJCQkJKSwK</text>
+        <text encoding="base64">CQkJCSRtZWRpaWFpSWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJJHRoaXMtPl9wYXJhbXNbICd1c2VySWQnIF0K</text>
+        <text encoding="base64">CQkJCQkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>49</text>
