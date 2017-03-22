@@ -147,12 +147,15 @@
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Tpl/Admin/Advertisement/viewAbstract.php" timestamp="1489146293599">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Config/APIMethods/10.6.php" timestamp="1490092358238">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Config/APIMethods/10.6.php" timestamp="1490174856402">
+        <mark key="'" line="848" column="26" />
       </file>
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Config/MURLConfig.php" timestamp="1490171961736">
         <mark key="[" line="171" column="9" />
         <mark key="]" line="171" column="22" />
+      </file>
+      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/User/Profile/Data.php" timestamp="1490174582179">
+        <mark key="'" line="249" column="20" />
       </file>
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Web/media/plugin/jBox/jBox.js" timestamp="1489490666569">
         <mark key="'" line="1123" column="70" />
@@ -196,6 +199,7 @@
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/User/BusinessActive/Logical.php" timestamp="1489571217930">
         <mark key="'" line="100" column="27" />
       </file>
+      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/API/102/Fashion/GetOfficialAccounts.php" timestamp="1490174636863" />
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Core/Data/InputData.php" timestamp="1489127202790">
         <mark key="'" line="932" column="27" />
       </file>
@@ -243,6 +247,7 @@
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Core/WebRoot/Application.php" timestamp="1489630324213">
         <mark key="'" line="165" column="19" />
       </file>
+      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/API/10_2/FashionController.php" timestamp="1490174688222" />
       <file name="$USER_HOME$/work/codes/ydCron/src/Config/Config.php" timestamp="1490010361878">
         <mark key="'" line="41" column="44" />
       </file>
@@ -325,8 +330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="22" filename="$USER_HOME$/work/codes/server-cron-system/src/components/cronList/index.vue" />
-      <jump line="122" column="15" filename="$USER_HOME$/work/codes/ydCron/src/Core/Request.php" />
       <jump line="166" column="78" filename="$USER_HOME$/work/codes/ydCron/src/Core/Request.php" />
       <jump line="193" column="33" filename="$USER_HOME$/work/codes/ydCron/src/Core/Request.php" />
       <jump line="194" column="42" filename="$USER_HOME$/work/codes/ydCron/src/Core/Request.php" />
@@ -425,6 +428,8 @@
       <jump line="140" column="19" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Core/WebRoot/Base/Web.php" />
       <jump line="53" column="10" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Core/WebRoot/Base/Web.php" />
       <jump line="217" column="21" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Admin/SpiderController.php" />
+      <jump line="249" column="20" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/User/Profile/Data.php" />
+      <jump line="848" column="26" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Config/APIMethods/10.6.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -442,7 +447,7 @@
         <text>,多了也存不下,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZ2V0U3BpZGVySGFuZGVyXD4=</text>
+        <text>fashion.getofficialaccounts</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJQXN5bmNfQ29tbWFuZGVyX1NwaWRlcl9IZWFyc3RTcGlkZXI6OmdldEluc3RhbmNlKCkKCQkJCS0+c2V0U3BpZGVySWQoICRzcGlkZXJJZCApCgkJCQktPnNldFNwaWRlckhhbmRsZXIoICRzcGlkZXJIYW5kbGVyICkKCQkJCS0+c2V0VXJsKCAkdXJsICkKCQkJCS0+c2V0RGVzdCggJGRlc3QgKQoJCQkJLT5zZXRTdWJEYXRhKCAkc3ViRGF0YSApCg==</text>
@@ -4042,9 +4047,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZ2V0U3BpZGVySGFuZGVyXD4=</last-search>
+      <last-search>fashion.getofficialaccounts</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZ2V0U3BpZGVySGFuZGVyXD4=</last-pattern>
+      <last-pattern>fashion.getofficialaccounts</last-pattern>
       <last-replace>hiddenInIcy</last-replace>
       <last-substitute encoding="base64">XDxzZXJ2XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -4052,8 +4057,6 @@
     </search>
     <history>
       <history-search>
-        <entry>range</entry>
-        <entry encoding="base64">XDxyYW5nZVw+</entry>
         <entry encoding="base64">XDxjcmVhdGVUaW1lUGFyYW1zXD4=</entry>
         <entry>mnax</entry>
         <entry>max</entry>
@@ -4072,6 +4075,8 @@
         <entry encoding="base64">XDxTVUJEQVRBX0dPT0RTX0JVWV9MSU1JVFw+</entry>
         <entry encoding="base64">XDxicm93c2VyXD4=</entry>
         <entry encoding="base64">XDxfZ2V0U3BpZGVySGFuZGVyXD4=</entry>
+        <entry>init</entry>
+        <entry>fashion.getofficialaccounts</entry>
       </history-search>
       <history-cmd>
         <entry>%s/workId/voteId/gi</entry>
