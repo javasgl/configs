@@ -12,12 +12,18 @@
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/IcyAPI/10/Icy/GetCollocationList.php" timestamp="1489374896142">
         <mark key="'" line="54" column="21" />
       </file>
-      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Stylist/Material/Group/Logical.php" timestamp="1490233091382" />
+      <file name="/a.dummy" timestamp="1490253678339">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/User/Counter.php" timestamp="1489394863067">
         <mark key="'" line="925" column="21" />
       </file>
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/Business/Shop/Todo.php" timestamp="1489395450027">
         <mark key="'" line="171" column="21" />
+      </file>
+      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Versioning/Configuration/changeLog/RB-0.344/1.php" timestamp="1490253654573">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="20" column="2" />
       </file>
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Tpl/Admin/Goods/view.php" timestamp="1489637364848">
         <mark key="'" line="0" column="0" />
@@ -34,6 +40,12 @@
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Business/User/Score/Compute/Order/DueToWho.php" timestamp="1489394489508">
         <mark key="'" line="49" column="21" />
       </file>
+      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Async/Commander/YDSearch/UpdateOrder.php" timestamp="1490253892931">
+        <mark key="'" line="7" column="6" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
+        <mark key="." line="132" column="0" />
+      </file>
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/Mobile/Icy/GoodsSearch.php" timestamp="1489487229720">
         <mark key="'" line="130" column="15" />
       </file>
@@ -46,8 +58,15 @@
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/API/106/Content/GetPictureGroupsByTag.php" timestamp="1489373878060">
         <mark key="'" line="45" column="21" />
       </file>
+      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Async/SocialCommandBuilder.php" timestamp="1490252155364" />
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Cron/TestController.php" timestamp="1490002807435">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Async/OrderCommandBuilder.php" timestamp="1490254056755">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="31" column="65" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/Mobile/Goods/GetListByCard.php" timestamp="1489571001047">
         <mark key="'" line="59" column="27" />
@@ -73,6 +92,13 @@
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Core/Model/YDSearchInstance.php" timestamp="1489052927510">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Versioning/Configuration/changeLog/RB-0.355/1.php" timestamp="1490253863318">
+        <mark key="'" line="6" column="51" />
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="13" column="27" />
+        <mark key="." line="13" column="27" />
+        <mark key="^" line="13" column="27" />
+      </file>
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Activity/Common/Dial/Order/Data.php" timestamp="1489393975587">
         <mark key="'" line="73" column="20" />
       </file>
@@ -97,7 +123,7 @@
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Admin/SpiderController.php" timestamp="1490173699217">
         <mark key="'" line="217" column="21" />
       </file>
-      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/YDSearch/Order/Search.php" timestamp="1490078821082">
+      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/YDSearch/Order/Search.php" timestamp="1490254132162">
         <mark key="'" line="670" column="20" />
       </file>
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/IcyAPI/1_4/GoodsController.php" timestamp="1490246198995" />
@@ -128,14 +154,39 @@
         <mark key="^" line="1550" column="26" />
         <mark key="." line="1550" column="26" />
       </file>
+      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Core/Model/YDSearchUpdateContainer.php" timestamp="1490254303434">
+        <mark key="'" line="80" column="20" />
+        <mark key="[" line="92" column="64" />
+        <mark key="]" line="92" column="64" />
+        <mark key="." line="92" column="64" />
+      </file>
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Tpl/Admin/Advertisement/viewAbstract.php" timestamp="1489146293599">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Async/OrderSearchCommandBuilder.php" timestamp="1490252056981">
+        <mark key="'" line="36" column="45" />
+        <mark key="[" line="36" column="26" />
+        <mark key="]" line="36" column="26" />
+        <mark key="^" line="10" column="36" />
+        <mark key="." line="36" column="26" />
       </file>
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Config/APIMethods/10.6.php" timestamp="1490180560125">
         <mark key="'" line="574" column="3" />
       </file>
+      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Config/MURLConfig.php" timestamp="1490179465856">
+        <mark key="'" line="169" column="4" />
+        <mark key="[" line="71" column="9" />
+        <mark key="]" line="71" column="21" />
+        <mark key="." line="170" column="0" />
+      </file>
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/User/Profile/Data.php" timestamp="1490174582179">
         <mark key="'" line="249" column="20" />
+      </file>
+      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Order/Comment/Logical.php" timestamp="1490086407568">
+        <mark key="'" line="720" column="4" />
+        <mark key="[" line="486" column="0" />
+        <mark key="]" line="486" column="0" />
+        <mark key="." line="486" column="0" />
       </file>
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Web/media/plugin/jBox/jBox.js" timestamp="1489490666569">
         <mark key="'" line="1123" column="70" />
@@ -149,23 +200,32 @@
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Shopping/Source/Type.php" timestamp="1490170677282">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Versioning/Configuration/changeLog/RB-0.114/1.php" timestamp="1490253720162">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="10" column="6" />
+      </file>
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/User/Search/AdRepo.php" timestamp="1489123053424">
         <mark key="'" line="107" column="21" />
       </file>
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Order/Goods/Data.php" timestamp="1489458885749">
         <mark key="'" line="174" column="20" />
       </file>
-      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Core/Helper/ElasticSearch.php" timestamp="1490248747537" />
+      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Core/Helper/ElasticSearch.php" timestamp="1490251189334">
+        <mark key="'" line="890" column="33" />
+        <mark key="[" line="421" column="0" />
+        <mark key="]" line="421" column="0" />
+        <mark key="." line="421" column="0" />
+      </file>
       <file name="$USER_HOME$/work/codes/ydCron/src/Core/Swoole.php" timestamp="1490068060835">
         <mark key="'" line="134" column="9" />
       </file>
-      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Async/QueueBase.php" timestamp="1490248993362">
-        <mark key="'" line="42" column="13" />
+      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Async/QueueBase.php" timestamp="1490254353527">
+        <mark key="'" line="561" column="15" />
       </file>
+      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Async/ThirdPartyGoodsFetchCommandBuilder.php" timestamp="1490251939147" />
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Cron/MojiController.php" timestamp="1489392855689">
         <mark key="'" line="62" column="21" />
       </file>
-      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/API/80/User/Search.php" timestamp="1490233091382" />
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/YDAggregation/Forum/Reply/Search.php" timestamp="1489401330300">
         <mark key="'" line="277" column="20" />
       </file>
@@ -238,6 +298,12 @@
         <mark key="^" line="29" column="143" />
         <mark key="." line="29" column="139" />
       </file>
+      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/YDSearch/Goods/Search.php" timestamp="1490183243519">
+        <mark key="'" line="225" column="95" />
+        <mark key="[" line="729" column="0" />
+        <mark key="]" line="729" column="0" />
+        <mark key="." line="729" column="0" />
+      </file>
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Core/WebRoot/Base/Web.php" timestamp="1490171027028">
         <mark key="'" line="53" column="10" />
       </file>
@@ -254,7 +320,7 @@
         <mark key="'" line="147" column="26" />
       </file>
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Mobile/OrderController.php" timestamp="1490248374730" />
-      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Cron/FixController.php" timestamp="1490182066289">
+      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Cron/FixController.php" timestamp="1490254841344">
         <mark key="'" line="1" column="6" />
       </file>
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/SmartService/Context/HelperYouPick.php" timestamp="1489123575565">
@@ -263,7 +329,12 @@
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Admin/MediaController.php" timestamp="1489662980249">
         <mark key="'" line="3494" column="71" />
       </file>
-      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Async/YDSearchCommandBuilder.php" timestamp="1490249866178" />
+      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Async/YDSearchCommandBuilder.php" timestamp="1490254035007">
+        <mark key="'" line="45" column="84" />
+        <mark key="[" line="194" column="0" />
+        <mark key="]" line="194" column="0" />
+        <mark key="." line="194" column="0" />
+      </file>
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/Admin/GoodsVerify/GetGoodsFailureList.php" timestamp="1489404952821">
         <mark key="'" line="265" column="21" />
       </file>
@@ -273,14 +344,19 @@
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/Admin/ShoppingGuide/GetRealTimeData.php" timestamp="1489395073938">
         <mark key="'" line="391" column="21" />
       </file>
-      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Cron/AsyncController.php" timestamp="1490249203115" />
-      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/Mobile/Goods/GetExtra.php" timestamp="1490246965912">
-        <mark key="]" line="533" column="4" />
-        <mark key="^" line="533" column="4" />
-        <mark key="." line="533" column="4" />
+      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Cron/AsyncController.php" timestamp="1490253436740">
+        <mark key="'" line="116" column="8" />
+        <mark key="[" line="96" column="9" />
+        <mark key="]" line="96" column="13" />
+        <mark key="^" line="96" column="13" />
+        <mark key="." line="96" column="13" />
       </file>
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/API/104/Goods/GetInfo.php" timestamp="1490180582165">
         <mark key="'" line="150" column="13" />
+      </file>
+      <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Async/OrderRefundCommandBuilder.php" timestamp="1490252123153">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Index/ActivitysecondelevenController.php" timestamp="1489393810281">
         <mark key="'" line="616" column="21" />
@@ -293,52 +369,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="290" column="10" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Goods/Item/Data.php" />
-      <jump line="197" column="21" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/IcyAPI/14/Goods/GetInfo.php" />
-      <jump line="210" column="137" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/IcyAPI/14/Goods/GetInfo.php" />
-      <jump line="124" column="146" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/IcyAPI/14/Goods/GetInfo.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/Mobile/Media/GetInfo.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/Mobile/Media/GetGoodsList.php" />
-      <jump line="124" column="0" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Shopping/Source/Type.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Shopping/Source/Type.php" />
-      <jump line="11" column="19" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Core/WebRoot/Base/Web.php" />
-      <jump line="131" column="19" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Core/WebRoot/Base/Web.php" />
-      <jump line="135" column="19" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Core/WebRoot/Base/Web.php" />
-      <jump line="140" column="19" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Core/WebRoot/Base/Web.php" />
-      <jump line="53" column="10" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Core/WebRoot/Base/Web.php" />
-      <jump line="217" column="21" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Admin/SpiderController.php" />
-      <jump line="249" column="20" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/User/Profile/Data.php" />
-      <jump line="848" column="26" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Config/APIMethods/10.6.php" />
-      <jump line="209" column="82" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/IcyAPI/14/Goods/GetInfo.php" />
-      <jump line="293" column="29" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/IcyAPI/14/Goods/GetInfo.php" />
-      <jump line="292" column="45" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/IcyAPI/14/Goods/GetInfo.php" />
-      <jump line="270" column="6" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/IcyAPI/14/Goods/GetInfo.php" />
-      <jump line="148" column="15" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Config/MURLConfig.php" />
-      <jump line="170" column="22" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Config/MURLConfig.php" />
-      <jump line="171" column="37" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Config/MURLConfig.php" />
-      <jump line="71" column="9" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Config/MURLConfig.php" />
-      <jump line="169" column="4" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Config/MURLConfig.php" />
-      <jump line="346" column="3" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Config/APIMethods/10.6.php" />
-      <jump line="574" column="3" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Config/APIMethods/10.6.php" />
-      <jump line="13" column="6" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/API/104/Goods/GetInfo.php" />
-      <jump line="150" column="13" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/View/API/104/Goods/GetInfo.php" />
-      <jump line="25" column="35" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Pager/Contract.php" />
-      <jump line="27" column="28" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Pager/Contract.php" />
-      <jump line="10" column="15" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Pager/Contract.php" />
-      <jump line="1" column="6" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Cron/FixController.php" />
-      <jump line="77" column="23" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Pager/Mysql.php" />
-      <jump line="22" column="15" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Pager/Mysql.php" />
-      <jump line="39" column="15" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Pager/Mysql.php" />
-      <jump line="69" column="19" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Pager/Mysql.php" />
-      <jump line="5153" column="21" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Admin/GoodsController.php" />
-      <jump line="4925" column="44" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Admin/GoodsController.php" />
-      <jump line="4923" column="21" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Admin/GoodsController.php" />
-      <jump line="3044" column="59" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Admin/GoodsController.php" />
-      <jump line="3143" column="84" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Admin/GoodsController.php" />
-      <jump line="4813" column="82" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Admin/GoodsController.php" />
-      <jump line="492" column="10" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Business/User/Data.php" />
-      <jump line="220" column="15" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/YDSearch/Goods/Search.php" />
-      <jump line="222" column="27" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/YDSearch/Goods/Search.php" />
       <jump line="225" column="95" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/YDSearch/Goods/Search.php" />
       <jump line="222" column="13" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Mobile/OrderController.php" />
       <jump line="223" column="17" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Mobile/OrderController.php" />
@@ -393,13 +423,59 @@
       <jump line="665" column="22" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Async/QueueBase.php" />
       <jump line="42" column="13" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Async/QueueBase.php" />
       <jump line="0" column="0" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Config/SystemConfig.php" />
+      <jump line="964" column="30" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Core/Helper/ElasticSearch.php" />
+      <jump line="1067" column="30" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Core/Helper/ElasticSearch.php" />
+      <jump line="1164" column="30" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Core/Helper/ElasticSearch.php" />
+      <jump line="31" column="13" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Core/Helper/ElasticSearch.php" />
+      <jump line="53" column="15" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Core/Helper/ElasticSearch.php" />
+      <jump line="78" column="22" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Core/Helper/ElasticSearch.php" />
+      <jump line="109" column="22" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Core/Helper/ElasticSearch.php" />
+      <jump line="122" column="22" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Core/Helper/ElasticSearch.php" />
+      <jump line="140" column="26" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Core/Helper/ElasticSearch.php" />
+      <jump line="158" column="22" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Core/Helper/ElasticSearch.php" />
+      <jump line="180" column="22" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Core/Helper/ElasticSearch.php" />
+      <jump line="198" column="22" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Core/Helper/ElasticSearch.php" />
+      <jump line="215" column="22" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Core/Helper/ElasticSearch.php" />
+      <jump line="240" column="22" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Core/Helper/ElasticSearch.php" />
+      <jump line="276" column="29" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Core/Helper/ElasticSearch.php" />
+      <jump line="364" column="29" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Core/Helper/ElasticSearch.php" />
+      <jump line="457" column="29" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Core/Helper/ElasticSearch.php" />
+      <jump line="573" column="35" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Core/Helper/ElasticSearch.php" />
+      <jump line="697" column="31" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Core/Helper/ElasticSearch.php" />
+      <jump line="814" column="29" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Core/Helper/ElasticSearch.php" />
+      <jump line="891" column="33" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Core/Helper/ElasticSearch.php" />
+      <jump line="7" column="6" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Async/Commander/YDSearch/UpdateOrder.php" />
+      <jump line="19" column="0" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Async/OrderSearchCommandBuilder.php" />
+      <jump line="93" column="38" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Cron/AsyncController.php" />
+      <jump line="108" column="8" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Cron/AsyncController.php" />
+      <jump line="21" column="0" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Async/OrderSearchCommandBuilder.php" />
+      <jump line="20" column="0" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Async/OrderSearchCommandBuilder.php" />
+      <jump line="33" column="45" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Async/OrderSearchCommandBuilder.php" />
+      <jump line="27" column="27" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Async/YDSearchCommandBuilder.php" />
+      <jump line="78" column="24" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Core/Model/YDSearchUpdateContainer.php" />
+      <jump line="80" column="20" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Core/Model/YDSearchUpdateContainer.php" />
+      <jump line="30" column="13" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Async/OrderCommandBuilder.php" />
+      <jump line="958" column="21" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Async/QueueBase.php" />
+      <jump line="973" column="34" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Async/QueueBase.php" />
+      <jump line="705" column="23" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Async/QueueBase.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Versioning/Configuration/changeLog/RB-0.355/1.php" />
+      <jump line="22" column="18" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Versioning/Configuration/changeLog/RB-0.355/1.php" />
+      <jump line="13" column="18" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Versioning/Configuration/changeLog/RB-0.355/1.php" />
+      <jump line="6" column="51" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Versioning/Configuration/changeLog/RB-0.355/1.php" />
+      <jump line="45" column="84" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Async/YDSearchCommandBuilder.php" />
+      <jump line="614" column="15" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Async/QueueBase.php" />
+      <jump line="627" column="49" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Async/QueueBase.php" />
+      <jump line="71" column="13" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Async/QueueBase.php" />
+      <jump line="549" column="32" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Async/QueueBase.php" />
+      <jump line="561" column="15" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Model/Async/QueueBase.php" />
+      <jump line="1" column="6" filename="$USER_HOME$/work/codes/cyzsCode/DressHelper/Controller/Cron/FixController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>collocation</text>
+        <text encoding="base64">LT5lbnF1ZXVlQ29tbWFuZGVyKA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -407,37 +483,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>collocation</text>
+        <text encoding="base64">LT5lbnF1ZXVlQ29tbWFuZGVyKA==</text>
       </register>
       <register name="/" type="4">
-        <text>esHosts</text>
+        <text encoding="base64">XDxfZXhlY3V0b3JMaXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCXJldHVybiBDb21tb246OmdldE1VcmwoCgkJCQkJJ2NvbGxvY2F0aW9uJyAsCgkJCQkJYXJyYXkoCgkJCQkJCSd7Y29sbG9jYXRpb25JZH0nID0+ICRwYXJhbXNbJ2NvbGxvY2F0aW9uSWQnXSAsCgkJCQkJKQoJCQkJKTsK</text>
+        <text encoding="base64">CQkJCQkJCS0+ZW5xdWV1ZUNvbW1hbmRlciggJHVwZGF0ZURhdGFbJ2NvbW1hbmRlciddICwgJHVwZGF0ZURhdGFbJ2lzRXhjbHVkZUR1cGxpY2F0ZWQnXSApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSAqIEByZXR1cm4gYXJyYXkKCSAqIEByZXR1cm4gYXJyYXkK</text>
+        <text encoding="base64">CQkJCQkJKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSAqIEBwYXJhbSBib29sICRpc0luQXBwCg==</text>
+        <text encoding="base64">CQkJCQkJCQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSAqIEBwYXJhbSAkZ29vZHNJZAoJICogQHBhcmFtICRjdXJyZW50VXNlcklkCg==</text>
+        <text encoding="base64">CQkJCQkJYXluYwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSAqLwoJLyoqCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCQlBc3luY19ZRFNlYXJjaENvbW1hbmRCdWlsZGVyOjpnZXRJbnN0YW5jZSgpCgkJCQkJCS0+ZW5xdWV1ZUNvbW1hbmRlciggJHVwZGF0ZURhdGFbJ2NvbW1hbmRlciddICwgJHVwZGF0ZURhdGFbJ2lzRXhjbHVkZUR1cGxpY2F0ZWQnXSApOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvL2N1cnJlbnRDb2xvciDpgI/kvKAK</text>
+        <text encoding="base64">CQkJCQlmaSgpe30K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgkvKioKCSAqIAoJICovCg==</text>
+        <text encoding="base64">CQkndGl0bGUnID0+ICfkuIPniZvop4bpopHkupHnqbrpl7Tln5/lkI0nICwKCQknZGVzY3JpcHRpb24nID0+ICcnICwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4000,19 +4076,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkkdGhpcy0+X2dldEN1cnJlbnRDb2xvcigpOwo=</text>
+        <text encoding="base64">CWFycmF5KAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkkdGhpcy0+X3Jlc3VsdFsgJ2N1cnJlbnRDb2xvcicgXSA9ICR0aGlzLT5kYXRhWyAnY3VycmVudENvbG9yJyBdOwo=</text>
+        <text encoding="base64">CQknYWN0aW9uJyA9PiBVcGdyYWRlQ29udHJvbGxlcjo6QUNUSU9OX0FERCAsCgkJJ2tleScgPT4gJ2FzeW5jWURTZWFyY2hRdWV1ZScgLAoJKSAsCg==</text>
       </register>
       <register name=":" type="4">
         <text>5144</text>
       </register>
     </registers>
     <search>
-      <last-search>esHosts</last-search>
+      <last-search encoding="base64">XDxfZXhlY3V0b3JMaXN0XD4=</last-search>
       <last-offset />
-      <last-pattern>esHosts</last-pattern>
+      <last-pattern encoding="base64">XDxfZXhlY3V0b3JMaXN0XD4=</last-pattern>
       <last-replace>hiddenInIcy</last-replace>
       <last-substitute encoding="base64">XDxzZXJ2XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -4020,13 +4096,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfcXVlcnlTdHJpbmdcPg==</entry>
-        <entry encoding="base64">XDxnb29kc0xpc3RcPg==</entry>
-        <entry encoding="base64">XDxfZ29vZHNMaXN0XD4=</entry>
-        <entry encoding="base64">XDxfaW5pdEdvb2RzXD4=</entry>
-        <entry>source</entry>
-        <entry encoding="base64">XDxfZ2V0U291cmNlXD4=</entry>
-        <entry encoding="base64">XDxfY3JlYXRlT3JkZXJHb29kc1w+</entry>
         <entry>video</entry>
         <entry encoding="base64">XDxpY29uX2RldGFpbFw+</entry>
         <entry encoding="base64">XDxMSU5LX1RZUEVfQ09MTE9DQVRJT05cPg==</entry>
@@ -4040,6 +4109,13 @@
         <entry encoding="base64">XDxfYmF0Y2hDb25zdW1lTnVtXD4=</entry>
         <entry encoding="base64">XDxfaXNCYXRjaENvbnN1bWVcPg==</entry>
         <entry>esHosts</entry>
+        <entry encoding="base64">XDxfY2xpZW50XD4=</entry>
+        <entry>bulk</entry>
+        <entry encoding="base64">XDxzYXZlXD4=</entry>
+        <entry encoding="base64">XDxfdHJ5VG9Db25zdW1lQmF0Y2hMaXN0XD4=</entry>
+        <entry encoding="base64">XDxkb0JhdGNoQ29uc3VtZVw+</entry>
+        <entry encoding="base64">XDxhc3luY1lEU2VhcmNoUXVldWVcPg==</entry>
+        <entry encoding="base64">XDxfZXhlY3V0b3JMaXN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/workId/voteId/gi</entry>
