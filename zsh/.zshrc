@@ -57,7 +57,8 @@ plugins=(git autojump osx node npm python)
 source $ZSH/oh-my-zsh.sh
 
 # User configuration
-
+fpath=(~/.zsh/completion $fpath)
+autoload -Uz compinit && compinit -i
 # export MANPATH="/usr/local/man:$MANPATH"
 
 # You may need to manually set your language environment
@@ -92,6 +93,8 @@ alias pc4="proxychains4"
 # editor alias
 alias open="open -a Sublime\ Text"
 # git alias
+alias gdi="git diff"
+alias gad="git add"
 alias gfe="git fetch -p"
 alias gme="git merge"
 alias gpl="git pull"
