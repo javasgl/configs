@@ -1,3 +1,26 @@
+
+#enables colorin the terminal bash shell export
+export CLICOLOR=1
+
+export TERM=xterm-256color
+
+export LC_ALL=en_US.UTF-8
+export LANG=en_US.UTF-8
+
+#path
+export PATH="$PATH:/Users/songgl/workspace/arcanist/bin/"
+export PATH="$PATH:/usr/local/go/bin"
+export GOPATH="/Users/songgl/work/codes/goCode"
+#export GOBIN=$GOPATH/bin
+
+export PATH="$PATH:$GOPATH/bin"
+export GROOVY_HOME="/usr/local/groovy"
+export PATH="$PATH:$GROOVY_HOME/bin"
+export PATH="/usr/local/opt/mysql@5.6/bin:$PATH"
+
+# yarn
+export PATH="$PATH:`yarn global bin`"
+
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
@@ -52,7 +75,7 @@ ZSH_THEME="af-magic"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git autojump osx node npm python)
+plugins=(gitfast autojump osx node npm python zsh-wakatime)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -93,6 +116,7 @@ alias pc4="proxychains4"
 # editor alias
 alias open="open -a Sublime\ Text"
 # git alias
+alias gpr="git pr"
 alias gdi="git diff"
 alias gad="git add"
 alias gfe="git fetch -p"
@@ -113,3 +137,5 @@ alias gla='git log --pretty="format:%ad %h (%an): %s" --date=short'
 alias gll="git log --pretty=oneline --graph --decorate --abbrev-commit --all"
 alias gls="git log --oneline --stat --date=short"
 
+[ -f /usr/local/etc/profile.d/autojump.sh ] && . /usr/local/etc/profile.d/autojump.sh
+eval "$(direnv hook zsh)"
