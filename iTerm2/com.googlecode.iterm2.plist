@@ -29137,7 +29137,7 @@ Clear Buffer</string>
 		<integer>1</integer>
 	</dict>
 	<key>NSWindow Frame NSFontPanel</key>
-	<string>859 33 445 77 0 0 1920 1080 </string>
+	<string>873 46 445 77 0 0 1920 1080 </string>
 	<key>NSWindow Frame Preferences</key>
 	<string>145 361 924 485 0 0 1920 1080 </string>
 	<key>NSWindow Frame SUAutomaticUpdateAlert</key>
@@ -29147,7 +29147,7 @@ Clear Buffer</string>
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>269 126 606 469 0 0 1440 900 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>695 513 796 486 0 0 1920 1080 </string>
+	<string>695 457 918 514 0 0 1920 1080 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
 	<string>0 0 910 710 0 0 1920 1080 </string>
 	<key>New Bookmarks</key>
@@ -29435,7 +29435,7 @@ Clear Buffer</string>
 			<key>Hide After Opening</key>
 			<false/>
 			<key>Horizontal Spacing</key>
-			<real>0.80000000000000004</real>
+			<real>0.75954913403614466</real>
 			<key>Idle Code</key>
 			<integer>0</integer>
 			<key>Initial Text</key>
@@ -29777,7 +29777,7 @@ Clear Buffer</string>
 			<key>Non-ASCII Anti Aliased</key>
 			<true/>
 			<key>Normal Font</key>
-			<string>Hack-BoldItalic 18</string>
+			<string>Hack-Bold 19</string>
 			<key>Only The Default BG Color Uses Transparency</key>
 			<false/>
 			<key>Open Toolbelt</key>
@@ -29958,7 +29958,7 @@ Clear Buffer</string>
 			<key>Use Italic Font</key>
 			<false/>
 			<key>Vertical Spacing</key>
-			<real>1.0425216490963856</real>
+			<real>0.96087867093373491</real>
 			<key>Visual Bell</key>
 			<true/>
 			<key>Window Type</key>
@@ -31521,7 +31521,7 @@ Clear Buffer</string>
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2019-05-05T02:09:08Z</date>
+	<date>2019-06-14T04:09:05Z</date>
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>Show Toolbelt</key>
@@ -31581,6 +31581,6 @@ Clear Buffer</string>
 	<key>findRegex_iTerm</key>
 	<false/>
 	<key>iTerm Version</key>
-	<string>3.2.8</string>
+	<string>3.2.9</string>
 </dict>
 </plist>
