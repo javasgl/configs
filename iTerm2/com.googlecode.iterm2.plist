@@ -29269,12 +29269,16 @@ Clear Buffer</string>
 			</dict>
 			<key>Ansi 4 Color</key>
 			<dict>
+				<key>Alpha Component</key>
+				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.73333334922790527</real>
+				<real>0.82352941176470584</real>
+				<key>Color Space</key>
+				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>0.0</real>
+				<real>0.54509803921568623</real>
 				<key>Red Component</key>
-				<real>0.0</real>
+				<real>0.14901960784313725</real>
 			</dict>
 			<key>Ansi 5 Color</key>
 			<dict>
@@ -29327,10 +29331,14 @@ Clear Buffer</string>
 			<true/>
 			<key>Background Color</key>
 			<dict>
+				<key>Alpha Component</key>
+				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.0</real>
+				<real>0.21176470588235294</real>
+				<key>Color Space</key>
+				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>0.0</real>
+				<real>0.16862745098039217</real>
 				<key>Red Component</key>
 				<real>0.0</real>
 			</dict>
@@ -31426,15 +31434,15 @@ Clear Buffer</string>
 	<key>NoSyncAllAppVersions</key>
 	<array>
 		<string>3.3.6</string>
-		<string>3.3.git.5d707a6771</string>
+		<string>3.3.4</string>
 		<string>3.3.1</string>
 		<string>3.3.3</string>
 		<string>3.3.5</string>
 		<string>3.3.7</string>
 		<string>3.3.9</string>
 		<string>3.2.9</string>
+		<string>3.3.git.5d707a6771</string>
 		<string>3.3.2</string>
-		<string>3.3.4</string>
 	</array>
 	<key>NoSyncCommandHistoryHasEverBeenUsed</key>
 	<true/>
@@ -31443,7 +31451,7 @@ Clear Buffer</string>
 		<key>screenFrame</key>
 		<string>{{0, 0}, {1440, 900}}</string>
 		<key>topLeft</key>
-		<string>{269, 595}</string>
+		<string>{300, 630}</string>
 	</dict>
 	<key>NoSyncHaveRequestedFullDiskAccess</key>
 	<true/>
@@ -31460,7 +31468,7 @@ Clear Buffer</string>
 	<key>NoSyncLastTipTime</key>
 	<real>592726378.71779501</real>
 	<key>NoSyncLaunchExperienceControllerRunCount</key>
-	<integer>74</integer>
+	<integer>75</integer>
 	<key>NoSyncNextAnnoyanceTime</key>
 	<real>587353000.20281994</real>
 	<key>NoSyncOnboardingWindowHasBeenShown</key>
