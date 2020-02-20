@@ -9,17 +9,29 @@ export LANG=en_US.UTF-8
 
 #path
 export PATH="$PATH:/Users/songgl/workspace/arcanist/bin/"
+
 export PATH="$PATH:/usr/local/go/bin"
+
 export GOPATH="/Users/songgl/work/codes/goCode"
+
+#export GOROOT="/usr/local/go"
+
 #export GOBIN=$GOPATH/bin
 
-export PATH="$PATH:$GOPATH/bin"
-export GROOVY_HOME="/usr/local/groovy"
-export PATH="$PATH:$GROOVY_HOME/bin"
-export PATH="/usr/local/opt/mysql@5.6/bin:$PATH"
+export PATH=$PATH:/usr/local/opt/go/libexec/bin
 
+export PATH="$PATH:$GOPATH/bin"
+
+export GROOVY_HOME="/usr/local/groovy"
+
+export PATH="$PATH:$GROOVY_HOME/bin"
+
+export PATH="/usr/local/opt/mysql@5.7/bin:$PATH"
 # yarn
 export PATH="$PATH:`yarn global bin`"
+
+#export HOMEBREW_BOTTLE_DOMAIN=https://mirrors.ustc.edu.cn/homebrew-bottles
+
 
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
@@ -30,8 +42,17 @@ export ZSH=/Users/songgl/.oh-my-zsh
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
-# ZSH_THEME="robbyrussell"
+#ZSH_THEME="robbyrussell"
 ZSH_THEME="af-magic"
+#ZHS_THEME="gianu"
+#ZSH_THEME="ys"
+#ZSH_THEME="random"
+#ZSH_THEME="amuse"
+#ZSH_THEME="awesomepanda"
+#ZSH_THEME="bira"
+#ZSH_THEME="dst"
+#ZSH_THEME="maran"
+#ZSH_THEME="muse"
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
@@ -75,7 +96,7 @@ ZSH_THEME="af-magic"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(gitfast autojump osx node npm python zsh-wakatime)
+plugins=(gitfast git autojump osx node npm python zsh-wakatime)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -105,6 +126,8 @@ autoload -Uz compinit && compinit -i
 # users are encouraged to define aliases within the ZSH_CUSTOM folder.
 # For a full list of active aliases, run `alias`.
 #
+
+
 # Example aliases
 alias zshconfig="vim ~/.zshrc"
 alias ohmyzsh="vim ~/.oh-my-zsh"
@@ -112,12 +135,17 @@ alias zshsave="source ~/.zshrc"
 alias ll="ls -alh"
 alias t="tig"
 alias pc4="proxychains4"
+alias jjh="ssh jumper"
+alias jjh2="ssh jumper2"
+alias qn-changelog-rs="qn-changelog-rs -c"
+alias gocheck="gofmt -e -l"
 
 # editor alias
 alias open="open -a Sublime\ Text"
 # git alias
 alias gpr="git pr"
 alias gdi="git diff"
+alias gdc="git diff --cached"
 alias gad="git add"
 alias gfe="git fetch -p"
 alias gme="git merge"
@@ -127,8 +155,8 @@ alias gco="git commit"
 alias gst="git status -b"
 alias gch="git checkout"
 alias gcp="git cherry-pick"
-alias gbr="git branch -vv"
-alias gbrr="git branch -r"
+alias gbr="git --no-pager branch -vv"
+alias gbrr="git --no-pager branch -rv"
 alias gss="git status -s -b"
 alias gstaa="git stash -u"
 alias gstal="git stash list"
@@ -137,5 +165,12 @@ alias gla='git log --pretty="format:%ad %h (%an): %s" --date=short'
 alias gll="git log --pretty=oneline --graph --decorate --abbrev-commit --all"
 alias gls="git log --oneline --stat --date=short"
 
-[ -f /usr/local/etc/profile.d/autojump.sh ] && . /usr/local/etc/profile.d/autojump.sh
 eval "$(direnv hook zsh)"
+
+#alias for cnpm
+alias cnpm="npm --registry=https://registry.npm.taobao.org \
+  --cache=$HOME/.npm/.cache/cnpm \
+  --disturl=https://npm.taobao.org/dist \
+  --userconfig=$HOME/.cnpmrc"
+
+[ -f /usr/local/etc/profile.d/autojump.sh ] && . /usr/local/etc/profile.d/autojump.sh
