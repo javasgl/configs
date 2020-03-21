@@ -12,6 +12,8 @@ export PATH="$PATH:/Users/songgl/workspace/arcanist/bin/"
 
 export PATH="$PATH:/usr/local/go/bin"
 
+export PATH=$PATH:/usr/local/opt/rabbitmq/sbin
+
 export GOPATH="/Users/songgl/work/codes/goCode"
 
 #export GOROOT="/usr/local/go"
@@ -139,6 +141,7 @@ alias jjh="ssh jumper"
 alias jjh2="ssh jumper2"
 alias qn-changelog-rs="qn-changelog-rs -c"
 alias gocheck="gofmt -e -l"
+alias redis-cli="iredis"
 
 # editor alias
 alias open="open -a Sublime\ Text"
@@ -174,3 +177,4 @@ alias cnpm="npm --registry=https://registry.npm.taobao.org \
   --userconfig=$HOME/.cnpmrc"
 
 [ -f /usr/local/etc/profile.d/autojump.sh ] && . /usr/local/etc/profile.d/autojump.sh
+export PATH="/usr/local/opt/openssl@1.1/bin:$PATH"
