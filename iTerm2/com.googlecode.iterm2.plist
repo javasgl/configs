@@ -29845,6 +29845,8 @@ Clear Buffer</string>
 				<dict>
 					<key>action</key>
 					<string>ScriptTrigger</string>
+					<key>disabled</key>
+					<true/>
 					<key>parameter</key>
 					<string>/usr/local/bin/wakatime --entity Terminal --entity-type app --plugin "iterm2-wakatime/0.0.1" --project "&lt;&lt;LAST_PROJECT&gt;&gt;"||true</string>
 					<key>regex</key>
